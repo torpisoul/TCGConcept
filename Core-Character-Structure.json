@@ -1,63 +1,19 @@
 {
-    "heroName": "",
-    "heroRace": "",
-    "heroClass": "",
-    "strength": 0,
-    "resistance": 0,
+    "name": "",
+    "class": "",
+    "race": "",
+    "level": 1,
+    "stance_advantage": "",
+    "environmental_bonus": "",
+    "environmental_penalty": "",
+    "health": 25,
+    "assault": 0,
+    "armoured": 0,
     "arcane": 0,
-    "health": 0,
-    "environmentModifiers": {
-        "environmentOne": {
-            "advantage": true,
-            "name": "",
-            "affinity": 0
-        },
-        "environmentTwo": {
-            "advantage": false,
-            "name": "",
-            "affinity": 0
-        }
-    },
-    "equippedItems": [
-        {
-            "name": "",
-            "strengthModifier": 0,
-            "resistanceModifier": 0,
-            "arcaneModifier": 0
-        },
-        {
-            "name": "",
-            "strengthModifier": 0,
-            "resistanceModifier": 0,
-            "arcaneModifier": 0
-        },
-        {
-            "name": "",
-            "strengthModifier": 0,
-            "resistanceModifier": 0,
-            "arcaneModifier": 0
-        }
-    ],
-    "abilities": [
-        {
-            "type": "",
-            "name": "",
-            "strengthModifier": "",
-            "resistanceModifier": "",
-            "arcaneModifier": "",
-            "environment": "",
-            "level": 0,
-            "abilityAction" : ""
-        },
-        {
-            "type": "",
-            "name": "",
-            "strengthModifier": "",
-            "resistanceModifier": "",
-            "arcaneModifier": "",
-            "environment": "",
-            "level": 0,
-            "abilityAction" : ""
-        }
-    ]
+    "critical_bonus": 0,
+    "ultimate": [],
+    "hero_trait": [],
+    "equipped_items": [],
+    "creatures": [],
+    "id": ""
 }
